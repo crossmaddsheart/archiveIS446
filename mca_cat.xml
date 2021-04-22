@@ -1,51 +1,52 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<inm:Record setEntry="0" xmlns:inm="https://www.inmagic.com/webpublisher/query">
-    <inm:recordid>216</inm:recordid> <!--ead: recordid-->
-    <inm:countrycode>US</inm:countrycode> <!--Doesn't appear to have an ead equivalent-->
-    <inm:repositorycode>ICRMMC</inm:repositorycode> <!--ead: -->
-    <inm:unitcode>2004-001</inm:unitcode>
-    <inm:repository>Rush University Medical Center Archives</inm:repository>
-    <inm:accession>2004-030</inm:accession>
-    <inm:unittitle>Rush Reporter Collection, 1975-1999</inm:unittitle>
-    <inm:paralleltitle />
-    <inm:othertitle />
-    <inm:gmd>text</inm:gmd>
-    <inm:responsibility>Rush University Office of Student Affairs</inm:responsibility>
-    <inm:distribution />
-    <inm:datecreate>1975-1999</inm:datecreate>
-    <inm:startdate>1975</inm:startdate>
-    <inm:enddate>1999</inm:enddate>
-    <inm:level>Fonds</inm:level>
-    <inm:extent>Publications : 2.0 linear feet</inm:extent>
-    <inm:titlesource>Chief source of information</inm:titlesource>
-    <inm:adminbiohist />
-    <inm:custodhist>Materials transferred from the Office of Student Affairs in August, 2004.</inm:custodhist>
-    <inm:acqinfo>2004-030 and previously non-accessioned materials.</inm:acqinfo>
-    <inm:scopecontent>Collection consists of the Rush University Office of Student Affairs&apos; newsletter &quot;Rush Reporter&quot; which was produced for the student body from 1977 to 1999. Each year, approximately eight issues were published, though this varies. Numbering of volume and issue is irregular throughout. The newsletter provided student news, information on loans, scholarships, and jobs; a recurring feature, &quot;Inside the Student Counseling Center,&quot; which offered tips to students; recurring features by the Student Bookstore and the Rush University Library; pictures taken at student events (usually unidentified); and advertisements for student activities and outings.  Some supplementary materials such as mock-ups, special summer issues, and drafts are included in the collection.  Included are &quot;Rush Press,&quot; a precursor to &quot;Rush Reporter,&quot; 1975; &quot;New Students F. Y. I.,&quot; 1987; &quot;The Rush Informer,&quot; 1987; drafts and related correspondence related to a column for &quot;Rush Reporter&quot; on nursing history by Ruth Johnsen, [1982?]; &quot;Rush University Orientation&quot; and &quot;Orientation News,&quot; 1990-1992; &quot;Rush Reporter,&quot; new student edition, 1996; &quot;Rush Reporter,&quot; material posted on University intranet site, 1998-1999.  Details about this collection were added by Nathalie Wheaton, January 2008.</inm:scopecontent>
-    <inm:accruals>No further accruals expected.</inm:accruals>
-    <inm:arrangement>Collection is arranged chronologically by publication date, and cataloged at the fonds level.</inm:arrangement>
-    <inm:access>Unrestricted.</inm:access>
-    <inm:reproduction />
-    <inm:language>English.</inm:language>
-    <inm:physcharacteristic>Most issues are in good condition, with minor tears or stains.</inm:physcharacteristic>
-    <inm:findaid>Paper finding aids to this collection may be generated on request from the Medical Center Archives Catalog. As of September 2004 there are no item level descriptions in the catalog for this collection.</inm:findaid>
-    <inm:originals />
-    <inm:copies />
-    <inm:image />
-    <inm:relatedmaterial />
-    <inm:separatedmaterial />
-    <inm:bibliography />
-    <inm:generalnote>Materials in accession no. 2004-030 were merged with an existing, previously non-accessioned run of the same title found in Archives collections. The materials were sorted by date, compared to identify the best copies of each issue, and duplicates were weeded.</inm:generalnote>
-    <inm:standardnumber />
-    <inm:location>Row B</inm:location>
-    <inm:containercode />
-    <inm:archivistnote>Collection consists of the Rush University Office of Student Affairs&apos; newsletter &quot;Rush Reporter&quot; which was produced for the student body from 1977 to 1999. Each year, approximately eight issues were published, though this varies. Numbering of volume and issue is irregular throughout. The newsletter provided student news, information on loans, scholarships, and jobs; a recurring feature, &quot;Inside the Student Counseling Center,&quot; which offered tips to students; recurring features by the Student Bookstore and the Rush University Library; pictures taken at student events (usually unidentified); and advertisements for student activities and outings.  Some supplementary materials such as mock-ups, special summer issues, and drafts are included in the collection.  Included are &quot;Rush Press,&quot; a precursor to &quot;Rush Reporter,&quot; 1975; &quot;New Students F. Y. I.,&quot; 1987; &quot;The Rush Informer,&quot; 1987; drafts and related correspondence related to a column for &quot;Rush Reporter&quot; on nursing history by Ruth Johnsen, [1982?]; &quot;Rush University Orientation&quot; and &quot;Orientation News,&quot; 1990-1992; &quot;Rush Reporter,&quot; new student edition, 1996; &quot;Rush Reporter,&quot; material posted on University intranet site, 1998-1999.  Details about this collection were added by Nathalie Wheaton, January 2008.</inm:archivistnote>
-    <inm:citation />
-    <inm:rules>Fonds and series level descriptions based on Archives, Personal Papers and Manuscripts. Item level descriptions based on Anglo American Cataloging Rules, 2nd Edition Revised.</inm:rules>
-    <inm:subjects />
-    <inm:namessubjects />
-    <inm:series />
-    <inm:file />
-    <inm:folder />
-    <inm:recordtype>Publication</inm:recordtype>
-</inm:Record>
+﻿<inm:Recordset xmlns:inm="inm">>
+    <inm:Record>
+        <inm:recordid>216</inm:recordid> <!--ead: recordid-->
+        <inm:countrycode>US</inm:countrycode> <!--Doesn't appear to have an ead equivalent-->
+        <inm:repositorycode>ICRMMC</inm:repositorycode> <!--ead: -->
+        <inm:unitcode>2004-001</inm:unitcode>
+        <inm:repository>Rush University Medical Center Archives</inm:repository>
+        <inm:accession>2004-030</inm:accession>
+        <inm:unittitle>Rush Reporter Collection, 1975-1999</inm:unittitle>
+        <inm:paralleltitle />
+        <inm:othertitle />
+        <inm:gmd>text</inm:gmd>
+        <inm:responsibility>Rush University Office of Student Affairs</inm:responsibility>
+        <inm:distribution />
+        <inm:datecreate>1975-1999</inm:datecreate>
+        <inm:startdate>1975</inm:startdate>
+        <inm:enddate>1999</inm:enddate>
+        <inm:level>Fonds</inm:level>
+        <inm:extent>Publications : 2.0 linear feet</inm:extent>
+        <inm:titlesource>Chief source of information</inm:titlesource>
+        <inm:adminbiohist />
+        <inm:custodhist>Materials transferred from the Office of Student Affairs in August, 2004.</inm:custodhist>
+        <inm:acqinfo>2004-030 and previously non-accessioned materials.</inm:acqinfo>
+        <inm:scopecontent>Collection consists of the Rush University Office of Student Affairs&apos; newsletter &quot;Rush Reporter&quot; which was produced for the student body from 1977 to 1999. Each year, approximately eight issues were published, though this varies. Numbering of volume and issue is irregular throughout. The newsletter provided student news, information on loans, scholarships, and jobs; a recurring feature, &quot;Inside the Student Counseling Center,&quot; which offered tips to students; recurring features by the Student Bookstore and the Rush University Library; pictures taken at student events (usually unidentified); and advertisements for student activities and outings.  Some supplementary materials such as mock-ups, special summer issues, and drafts are included in the collection.  Included are &quot;Rush Press,&quot; a precursor to &quot;Rush Reporter,&quot; 1975; &quot;New Students F. Y. I.,&quot; 1987; &quot;The Rush Informer,&quot; 1987; drafts and related correspondence related to a column for &quot;Rush Reporter&quot; on nursing history by Ruth Johnsen, [1982?]; &quot;Rush University Orientation&quot; and &quot;Orientation News,&quot; 1990-1992; &quot;Rush Reporter,&quot; new student edition, 1996; &quot;Rush Reporter,&quot; material posted on University intranet site, 1998-1999.  Details about this collection were added by Nathalie Wheaton, January 2008.</inm:scopecontent>
+        <inm:accruals>No further accruals expected.</inm:accruals>
+        <inm:arrangement>Collection is arranged chronologically by publication date, and cataloged at the fonds level.</inm:arrangement>
+        <inm:access>Unrestricted.</inm:access>
+        <inm:reproduction />
+        <inm:language>English.</inm:language>
+        <inm:physcharacteristic>Most issues are in good condition, with minor tears or stains.</inm:physcharacteristic>
+        <inm:findaid>Paper finding aids to this collection may be generated on request from the Medical Center Archives Catalog. As of September 2004 there are no item level descriptions in the catalog for this collection.</inm:findaid>
+        <inm:originals />
+        <inm:copies />
+        <inm:image />
+        <inm:relatedmaterial />
+        <inm:separatedmaterial />
+        <inm:bibliography />
+        <inm:generalnote>Materials in accession no. 2004-030 were merged with an existing, previously non-accessioned run of the same title found in Archives collections. The materials were sorted by date, compared to identify the best copies of each issue, and duplicates were weeded.</inm:generalnote>
+        <inm:standardnumber />
+        <inm:location>Row B</inm:location>
+        <inm:containercode />
+        <inm:archivistnote>Collection consists of the Rush University Office of Student Affairs&apos; newsletter &quot;Rush Reporter&quot; which was produced for the student body from 1977 to 1999. Each year, approximately eight issues were published, though this varies. Numbering of volume and issue is irregular throughout. The newsletter provided student news, information on loans, scholarships, and jobs; a recurring feature, &quot;Inside the Student Counseling Center,&quot; which offered tips to students; recurring features by the Student Bookstore and the Rush University Library; pictures taken at student events (usually unidentified); and advertisements for student activities and outings.  Some supplementary materials such as mock-ups, special summer issues, and drafts are included in the collection.  Included are &quot;Rush Press,&quot; a precursor to &quot;Rush Reporter,&quot; 1975; &quot;New Students F. Y. I.,&quot; 1987; &quot;The Rush Informer,&quot; 1987; drafts and related correspondence related to a column for &quot;Rush Reporter&quot; on nursing history by Ruth Johnsen, [1982?]; &quot;Rush University Orientation&quot; and &quot;Orientation News,&quot; 1990-1992; &quot;Rush Reporter,&quot; new student edition, 1996; &quot;Rush Reporter,&quot; material posted on University intranet site, 1998-1999.  Details about this collection were added by Nathalie Wheaton, January 2008.</inm:archivistnote>
+        <inm:citation />
+        <inm:rules>Fonds and series level descriptions based on Archives, Personal Papers and Manuscripts. Item level descriptions based on Anglo American Cataloging Rules, 2nd Edition Revised.</inm:rules>
+        <inm:subjects />
+        <inm:namessubjects />
+        <inm:series />
+        <inm:file />
+        <inm:folder />
+        <inm:recordtype>Publication</inm:recordtype>
+    </inm:Record>
+</inm:Recordset>

@@ -1,4 +1,4 @@
-#
+# ead_write.py
 #
 
 
@@ -6,6 +6,9 @@ import xml.etree.ElementTree as ET
 
 
 def generate_ead(file_name):
+
+    # record_object = populate_record_object(open(input('Please enter the name of a DB/TextWorks XML file to convert: ')))
+    # This is a test record_id dict
     record_object = {'recordid': 'recordid',
                      'filedesc': 'filedesc',
                      'maintenanceagency': 'maintenanceagency',
