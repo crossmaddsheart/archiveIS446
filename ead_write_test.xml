@@ -1,64 +1,5 @@
-<inm:Recordset xmlns:inm="inm">
-    <inm:Record setEntry="2468">
-<inm:recordid>4702</inm:recordid>
-<inm:countrycode />
-<inm:repositorycode />
-<inm:unitcode />
-<inm:repository>Rush University Medical Center Archives</inm:repository>
-<inm:accession />
-<inm:unittitle>Nicholas Senn Papers, 1877-2001</inm:unittitle>
-<inm:paralleltitle />
-<inm:othertitle />
-<inm:gmd>text</inm:gmd>
-<inm:responsibility>Senn, Nicholas, 1844-1908</inm:responsibility>
-<inm:distribution />
-<inm:datecreate />
-<inm:startdate>1877</inm:startdate>
-<inm:enddate>2001</inm:enddate>
-<inm:level />
-<inm:extent>Items:  About 170 items
-Linear feet:  6.5</inm:extent>
-<inm:titlesource />
-<inm:adminbiohist>BIOGRAPHICAL NOTE:
-
-Surgeon Nicholas Senn, 1844-1908, was born in Buchs, Switzerland, 31 October 1844. He moved to the United States as a child, when his family settled in Ashford, Wisconsin. In 1869, Senn graduated from Chicago Medical College and married Aurelia S. Millhouser (spellings vary).  Their children included sons Emanuel J. Senn, 1869-1947, Rush Medical College graduate, 1893, and William Nicholas Senn, 1876-1947, Rush graduate, 1900.  Senn died of heart disease on January 12, 1908.
-
-Senn’s Chicago career began with his one and a half year internship at Cook County Hospital following his graduation from medical school.  He then practiced medicine in Wisconsin for five years and became an attending surgeon of Milwaukee Hospital in 1874.  In 1878, Senn attended courses at the University of Munich, Germany and earned a second medical degree.  He returned to Chicago in 1884 to serve for three years as a Professor of Surgery at the College of Physicians and Surgeons.
-
-From 1888 until the time of his death, Senn held several positions in surgery and pathology at Rush Medical College and the University of Chicago. Senn was instrumental in raising the medical training at Rush from two to three years and requiring applicants to the college to be high school graduates.  During his time at Rush Medical College and the University of Chicago, Nicholas Senn held the following titles:
-
-Professor of the Principles of Surgery and of Surgical Pathology, 1888-1890
-Professor of Practice of Surgery and of Clinical Surgery, 1890-1898
-Nicholas Senn Professor of Surgery, 1898-1905
-Board of Trustees, 1895-1898
-Nicholas Senn Professor and Head of the Department of Surgery, and professor of Surgery in the University of Chicago, 1905-1907
-Nicholas Senn Professor of Military Surgery, and Professor of Surgery in the University of Chicago, 1907-1908
-
-Senn became Surgeon General for both Wisconsin and Illinois in 1890.  Senn gained a reputation as a military surgeon for his experiences assisting the Greeks in the Graeco-Turkish War, and assisting Japan in the Japanese-Russian War. In 1898, he served in the Spanish-American War as Surgeon General of the Sixth Army Corps in Cuba.  Senn’s experience treating soldiers on the battlefield led him to write several papers suggesting how conditions could be improved.  His work led to innovations in army medical services.  Senn traveled the world, and wrote about his travels from a medical standpoint.
-
-Senn was a member of several professional associations.  He was founder of the Association of Military Surgeons of the United States. He also served as president of the American Surgical Association, 1892; of the Chicago Medical Society, 1894; and of the American Medical Association, 1897.
-
-His areas of interest and research included work in abdominal surgery, plastic surgery, animal experimentation, intestine and bone diseases, microscopic diagnosis, and first aid on the battlefield.  His experience with military surgery inspired his research on gunshot wounds, including the use of hydrogen gas to determine perforation of intestines.
-
-Senn sponsored the building of Senn Hall in 1902 which still stands on Harrison Street.  He donated most of the funds and encouraged other faculty members and trustees to contribute to its construction.</inm:adminbiohist>
-<inm:custodhist />
-<inm:acqinfo>This collection is an integration of Senn’s Biographical Reference File and Senn’s Medical Offprints.</inm:acqinfo>
-<inm:scopecontent>Surgeon Nicholas Senn, 1844-1908, was born in Buchs, Switzerland, 31 October 1844, and moved to the United States as a child, his family settling in Ashford, Wisc. He graduated from Chicago Medical College, 1869.  Senn held several positions at Rush Medical College in Chicago, Ill., and the University of Chicago from 1888, until the time of his death, mostly serving as professor of surgery and pathology.  Senn’s experiences as a military surgeon during the Spanish American War, 1898, and during other military events inspired Senn to suggest improvements in standards which led to medical innovations on the battlefield.
-
-Surgeon Nicholas Senn’s papers include biographical information, correspondence, and writings.  Biographical information includes biographical sketches, obituaries, and several articles written about Senn and his work.  Correspondence includes letters to, from, and about Senn.  Writings include articles and addresses mostly written by Senn on a variety of medical topics, including abdominal surgery, plastic surgery, animal experimentation, intestine and bone diseases, microscopic diagnosis, and first aid on the battlefield.  His experience with military surgery led to research on gunshot wounds, including the use of hydrogen gas to determine perforation of intestines.  Pictures include reprints of photographs from the 1880s to early 1900s of Senn, Senn with others, and buildings.
-
-[NOTE: Through the Book Digitization Initiative Grant from the Consortium of Academic and Research Libraries in Illinois (CARLI), a selection of Senn&apos;s books were digitized and made available through the Internet Archive in 2011. Find links to items below.]
-1) Nicholas Senn, an Appreciation, by S. M. Wylie, 1908 (Accession Number in RushCat 3428)
-[ http://www.archive.org/details/nicholassennappr00wyli ]
-2) The Surgery of the Pancreas, by Nicholas Senn, 1886 (Accession Number in Rush Cat 2243)
-[ http://www.archive.org/details/surgeryofpancrea00senn ]</inm:scopecontent>
-<inm:accruals />
-<inm:arrangement />
-<inm:access>The Nicholas Senn Papers are OPEN to researchers.</inm:access>
-<inm:reproduction>Copyright is retained by the authors of the items in these papers, or their descendants, as stipulated by United States copyright law.</inm:reproduction>
-<inm:language>English</inm:language>
-<inm:physcharacteristic />
-<inm:findaid>Series 1. Biographical Information, 1899-2001 and undated
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns="http://ead3.archivists.org/schema/" audience="external"><control><recordid>4702</recordid><maintenancestatus value="derived" /><maintenancehistory><maintenanceevent><eventtype value="created" /><eventdatetime standarddatetime="2021-04" /><agenttype value="machine" /><agent /><eventdescription /></maintenanceevent></maintenancehistory></control><archdesc><did><origination><p>Senn, Nicholas, 1844-1908</p></origination><unittitle>Nicholas Senn Papers, 1877-2001</unittitle><physloc>Q2-Q4</physloc><langmaterial><language>English</language></langmaterial><accruals><p>This was a None</p></accruals><otherfindaid><p>Series 1. Biographical Information, 1899-2001 and undated
 
 About 40 items
 Scope Content: Biographical information includes biographical sketches, obituaries, and several articles written about Senn and his work.  Manuel E. Lichtenstein’s 1961 and 1963 articles about Senn and his contributions to medicine include his notes.  Lichtenstein’s notes include drafts, biographies, bibliographies, and articles written by or about Senn.
@@ -243,50 +184,47 @@ BOX 17
 Pictures of Individuals, including Senn and Christian Fenger
 Pictures of Groups, including Senn at work and Senn with other doctors
 Pictures of Buildings, including Rush Medical College, Senn Hall, St. Joseph’s Hospital, and a Cook County Hospital Operating Room.
-Negatives
-
-
-
-
-
-
-
-
-
-
-
-
-</inm:findaid>
-<inm:originals />
-<inm:copies />
-<inm:image />
-<inm:relatedmaterial>Biographical Reference File: Alexander Doolas, Acc. 2001-007
+Negatives</p></otherfindaid><relatedmaterial><p>Biographical Reference File: Alexander Doolas, Acc. 2001-007
 O94-038 Francis H. Straus oral history
-RG044000: Audio-Visual (several pictures)</inm:relatedmaterial>
-<inm:separatedmaterial>Pictures related to or used in Lichtenstein’s article.
-Other Senn pictures.</inm:separatedmaterial>
-<inm:bibliography />
-<inm:generalnote>Processed by:  Staff and Nathalie Wheaton (October 2006)
-Two of Senn&apos;s books in this collection were digitized in 2011 through a Book Digitization Grant from CARLI (Consortium of Academic and Research Libraries in Illinois) by the Internet Archive.
-1) Nicholas Senn, an Appreciation, by S. M. Wylie, 1908 (Accession Number in RushCat 3428)
-http://www.archive.org/details/surgeryofpancrea00senn
-2) The Surgery of the Pancreas, by Nicholas Senn, 1886 (Accession Number in Rush Cat 2243)
-http://www.archive.org/details/nicholassennappr00wyli</inm:generalnote>
-<inm:standardnumber />
-<inm:location>Q2-Q4</inm:location>
-<inm:containercode />
-<inm:archivistnote>Surgeon Nicholas Senn’s papers include biographical information, correspondence, writings, and pictures.  Biographical information includes biographical sketches, obituaries, and several articles written about Senn and his work.  Correspondence includes letters to, from, and about Senn.  Writings include articles and addresses mostly written by Senn on a variety of medical topics, including abdominal surgery, plastic surgery, animal experimentation, intestine and bone diseases, microscopic diagnosis, and first aid on the battlefield.  His experience with military surgery led to research on gunshot wounds, including the use of hydrogen gas to determine perforation of intestines.  Pictures include reprints of photographs from the 1880s to early 1900s of Senn, Senn with others, and buildings, such as Rush Medical College and Senn Hall.
-[NOTE: Through the Book Digitization Initiative Grant from the Consortium of Academic and Research Libraries in Illinois (CARLI), a selection of Senn&apos;s books were digitized and made available through the Internet Archive in 2011. Find links to items below.]
+RG044000: Audio-Visual (several pictures)</p></relatedmaterial><separatedmaterial><p>Pictures related to or used in Lichtenstein’s article.
+Other Senn pictures.</p></separatedmaterial><processinfo><p>Surgeon Nicholas Senn’s papers include biographical information, correspondence, writings, and pictures.  Biographical information includes biographical sketches, obituaries, and several articles written about Senn and his work.  Correspondence includes letters to, from, and about Senn.  Writings include articles and addresses mostly written by Senn on a variety of medical topics, including abdominal surgery, plastic surgery, animal experimentation, intestine and bone diseases, microscopic diagnosis, and first aid on the battlefield.  His experience with military surgery led to research on gunshot wounds, including the use of hydrogen gas to determine perforation of intestines.  Pictures include reprints of photographs from the 1880s to early 1900s of Senn, Senn with others, and buildings, such as Rush Medical College and Senn Hall.
+[NOTE: Through the Book Digitization Initiative Grant from the Consortium of Academic and Research Libraries in Illinois (CARLI), a selection of Senn's books were digitized and made available through the Internet Archive in 2011. Find links to items below.]
 
 ARRANGEMENT OF SERIES:
 
 1. Biographical information, 1899-2001 and undated
 2. Correspondence, 1890-1996 and undated
 3. Writings, 1877-1904 and undated
-4. Pictures, 1880s-1900s</inm:archivistnote>
-<inm:citation>[Identification of item], in the Nicholas Senn Papers, Rush University Medical Center Archives.</inm:citation>
-<inm:rules />
-<inm:subjects>Abdomen surgery—History.
+4. Pictures, 1880s-1900s</p></processinfo><acqinfo><p>This collection is an integration of Senn’s Biographical Reference File and Senn’s Medical Offprints.</p></acqinfo></did><userestrict><p>The Nicholas Senn Papers are OPEN to researchers.</p></userestrict><scopecontent><p>Surgeon Nicholas Senn, 1844-1908, was born in Buchs, Switzerland, 31 October 1844, and moved to the United States as a child, his family settling in Ashford, Wisc. He graduated from Chicago Medical College, 1869.  Senn held several positions at Rush Medical College in Chicago, Ill., and the University of Chicago from 1888, until the time of his death, mostly serving as professor of surgery and pathology.  Senn’s experiences as a military surgeon during the Spanish American War, 1898, and during other military events inspired Senn to suggest improvements in standards which led to medical innovations on the battlefield.
+
+Surgeon Nicholas Senn’s papers include biographical information, correspondence, and writings.  Biographical information includes biographical sketches, obituaries, and several articles written about Senn and his work.  Correspondence includes letters to, from, and about Senn.  Writings include articles and addresses mostly written by Senn on a variety of medical topics, including abdominal surgery, plastic surgery, animal experimentation, intestine and bone diseases, microscopic diagnosis, and first aid on the battlefield.  His experience with military surgery led to research on gunshot wounds, including the use of hydrogen gas to determine perforation of intestines.  Pictures include reprints of photographs from the 1880s to early 1900s of Senn, Senn with others, and buildings.
+
+[NOTE: Through the Book Digitization Initiative Grant from the Consortium of Academic and Research Libraries in Illinois (CARLI), a selection of Senn's books were digitized and made available through the Internet Archive in 2011. Find links to items below.]
+1) Nicholas Senn, an Appreciation, by S. M. Wylie, 1908 (Accession Number in RushCat 3428)
+[ http://www.archive.org/details/nicholassennappr00wyli ]
+2) The Surgery of the Pancreas, by Nicholas Senn, 1886 (Accession Number in Rush Cat 2243)
+[ http://www.archive.org/details/surgeryofpancrea00senn ]</p></scopecontent><bioghist><p>BIOGRAPHICAL NOTE:
+
+Surgeon Nicholas Senn, 1844-1908, was born in Buchs, Switzerland, 31 October 1844. He moved to the United States as a child, when his family settled in Ashford, Wisconsin. In 1869, Senn graduated from Chicago Medical College and married Aurelia S. Millhouser (spellings vary).  Their children included sons Emanuel J. Senn, 1869-1947, Rush Medical College graduate, 1893, and William Nicholas Senn, 1876-1947, Rush graduate, 1900.  Senn died of heart disease on January 12, 1908.
+
+Senn’s Chicago career began with his one and a half year internship at Cook County Hospital following his graduation from medical school.  He then practiced medicine in Wisconsin for five years and became an attending surgeon of Milwaukee Hospital in 1874.  In 1878, Senn attended courses at the University of Munich, Germany and earned a second medical degree.  He returned to Chicago in 1884 to serve for three years as a Professor of Surgery at the College of Physicians and Surgeons.
+
+From 1888 until the time of his death, Senn held several positions in surgery and pathology at Rush Medical College and the University of Chicago. Senn was instrumental in raising the medical training at Rush from two to three years and requiring applicants to the college to be high school graduates.  During his time at Rush Medical College and the University of Chicago, Nicholas Senn held the following titles:
+
+Professor of the Principles of Surgery and of Surgical Pathology, 1888-1890
+Professor of Practice of Surgery and of Clinical Surgery, 1890-1898
+Nicholas Senn Professor of Surgery, 1898-1905
+Board of Trustees, 1895-1898
+Nicholas Senn Professor and Head of the Department of Surgery, and professor of Surgery in the University of Chicago, 1905-1907
+Nicholas Senn Professor of Military Surgery, and Professor of Surgery in the University of Chicago, 1907-1908
+
+Senn became Surgeon General for both Wisconsin and Illinois in 1890.  Senn gained a reputation as a military surgeon for his experiences assisting the Greeks in the Graeco-Turkish War, and assisting Japan in the Japanese-Russian War. In 1898, he served in the Spanish-American War as Surgeon General of the Sixth Army Corps in Cuba.  Senn’s experience treating soldiers on the battlefield led him to write several papers suggesting how conditions could be improved.  His work led to innovations in army medical services.  Senn traveled the world, and wrote about his travels from a medical standpoint.
+
+Senn was a member of several professional associations.  He was founder of the Association of Military Surgeons of the United States. He also served as president of the American Surgical Association, 1892; of the Chicago Medical Society, 1894; and of the American Medical Association, 1897.
+
+His areas of interest and research included work in abdominal surgery, plastic surgery, animal experimentation, intestine and bone diseases, microscopic diagnosis, and first aid on the battlefield.  His experience with military surgery inspired his research on gunshot wounds, including the use of hydrogen gas to determine perforation of intestines.
+
+Senn sponsored the building of Senn Hall in 1902 which still stands on Harrison Street.  He donated most of the funds and encouraged other faculty members and trustees to contribute to its construction.</p></bioghist><controlaccess><subject>Abdomen surgery—History.
 Animal experimentation—History.
 Chicago (Ill.)—History, 19th century.
 History of medicine—United States.  Chicago (Ill.)
@@ -299,12 +237,4 @@ Senn, Nicholas, (1844-1908)
 Spanish-American War, 1898—Medical aspects.
 Surgery education—United States.
 Surgery, Military—United States—History, 19th century.
-University of Chicago—Dept. of Surgery—History.
-</inm:subjects>
-<inm:namessubjects />
-<inm:series />
-<inm:file />
-<inm:folder />
-<inm:recordtype />
-</inm:Record>
-</inm:Recordset>
+University of Chicago—Dept. of Surgery—History.</subject></controlaccess></archdesc></ead>
